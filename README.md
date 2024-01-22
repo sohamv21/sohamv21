@@ -1,7 +1,7 @@
-### Hi there 👋
 ## 👋 Hi, I’m @sohamv21, a third year CS major at the University of Cincinnati (CEAS)
 <p> 💻 I have held previous co-op positions @ KFI Engineers as a Controls Engineering Co-op <p>
 <p> 🖱️ Most experienced with Python,MySQL,C++,AutoCAD and HMI Software </p>
+<p> 👯 I'm looking to collaborate and contribute to Open Source projects on Github! <p>
 <p> 📫 How to reach me: vakanisa@mail.uc.edu</p>
 <!--
 **sohamv21/sohamv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
